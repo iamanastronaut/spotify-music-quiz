@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #f9c74f;
+    border-radius: 10px;
+    background-color: white;
+}
+
+button {
+    background-color: #f9c74f;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.8;
+}
